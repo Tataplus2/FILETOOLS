@@ -6,4 +6,4 @@ git clone https://github.com/Taybul1/FILETOOLS.git
 
 cd FILETOOLS
 
-python CYBERFILE
+python CYBERFILE.py
