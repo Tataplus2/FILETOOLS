@@ -13,3 +13,7 @@ mohin
 TAYBUL-PRO-CYBER1→0→2→8→3→u→0→_→a→2→8→3
 suny
 TAYBUL-PRO-CYBER1→0→1→6→0→u→0→_→a→1→6→0
+anik
+TAYBUL-PRO-CYBER1→0→3→7→4→u→0→_→a→3→7→4
+gazi
+TAYBUL-PRO-CYBER1→0→1→9→1→u→0→_→a→1→9→1
