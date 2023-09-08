@@ -45,3 +45,5 @@ jahid pc
 TAYBUL-PRO-CYBER1→0→2→7→4→u→0→_→a→2→7→4
 momen
 TAYBUL-PRO-CYBER1→0→2→8→8→u→0→_→a→2→8→8
+forid
+TAYBUL-PRO-CYBER1→0→3→3→0→u→0→_→a→3→3→0
