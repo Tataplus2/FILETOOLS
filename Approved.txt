@@ -24,7 +24,7 @@ TAYBUL-PRO-CYBER1→0→2→2→3→u→0→_→a→2→2→3
 saiful
 TAYBUL-PRO-CYBER1→0→1→8→0→u→0→_→a→1→8→0
 jihad
-TAYBUL-PRO-CYBER1→0→6→0→1→u→0→_→a→6→0→1
+TAYBUL-PRO-CYBER1→0→6→0→8→u→0→_→a→6→0→8
 Rahul
 TAYBUL-PRO-CYBER1→0→2→0→5→u→0→_→a→2→0→5
 sabbir 
@@ -47,3 +47,5 @@ momen
 TAYBUL-PRO-CYBER1→0→2→8→8→u→0→_→a→2→8→8
 forid
 TAYBUL-PRO-CYBER1→0→3→3→0→u→0→_→a→3→3→0
+gaji alom
+TAYBUL-PRO-CYBER1→0→1→9→1→u→0→_→a→1→9→1
