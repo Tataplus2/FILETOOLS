@@ -14,7 +14,7 @@ TAYBUL-PRO-CYBER1→0→2→8→3→u→0→_→a→2→8→3
 suny
 TAYBUL-PRO-CYBER1→0→1→6→0→u→0→_→a→1→6→0
 anik
-TAYBUL-PRO-CYBER1→0→3→7→4→u→0→_→a→3→7→4
+TAYBUL-PRO-CYBER1→0→4→1→5→u→0→_→a→4→1→5
 randome
 TAYBUL-PRO-CYBER1→0→1→3→7→u→0→_→a→1→3→7
 sabit
