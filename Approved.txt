@@ -51,3 +51,5 @@ gaji alom
 TAYBUL-PRO-CYBER1→0→1→9→1→u→0→_→a→1→9→1
 afsana
 TAYBUL-PRO-CYBER1→0→2→9→2→u→0→_→a→2→9→2
+lx 
+TAYBUL-PRO-CYBER1→0→2→1→4→u→0→_→a→2→1→4
