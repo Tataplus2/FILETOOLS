@@ -55,3 +55,7 @@ lx
 TAYBUL-PRO-CYBER1→0→2→1→4→u→0→_→a→2→1→4
 random
 TAYBUL-PRO-CYBER1→0→2→3→9→u→0→_→a→2→3→9
+sujon
+TAYBUL-PRO-CYBER1→0→2→6→7→u→0→_→a→2→6→7
+golpi
+TAYBUL-PRO-CYBER1→0→2→2→8→u→0→_→a→2→2→8
