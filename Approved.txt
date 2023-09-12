@@ -21,3 +21,7 @@ jihad
 TAYBUL-PRO-CYBER1→0→6→0→8→u→0→_→a→6→0→8
 afsana
 TAYBUL-PRO-CYBER1→0→2→9→2→u→0→_→a→2→9→2
+rubel
+TAYBUL-PRO-CYBER1→0→2→8→5→u→0→_→a→2→8→5
+sabit
+TAYBUL-PRO-CYBER1→0→2→8→3→u→0→_→a→2→8→3
