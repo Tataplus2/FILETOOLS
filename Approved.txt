@@ -54,3 +54,5 @@ jihad
 TAYBUL-PRO-CYBER1→0→2→3→3→u→0→_→a→2→3→3
 sihab
 TAYBUL-PRO-CYBER1→0→3→2→9→u→0→_→a→3→2→9
+TAYBUL-PRO-CYBER1→0→1→9→3→u→0→_→a→1→9→3
+ses 
