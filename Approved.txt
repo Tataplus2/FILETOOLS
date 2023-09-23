@@ -60,3 +60,5 @@ imzat
 TAYBUL-PRO-CYBER1→0→9→0→3→u→0→_→a→9→0→3
 md jihad
 TAYBUL-PRO-CYBER1→0→3→0→2→u→0→_→a→3→0→2
+nurul
+TAYBUL-PRO-CYBER1→1→2→1→1→u→0→_→a→1→2→1→1
