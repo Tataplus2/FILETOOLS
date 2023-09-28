@@ -44,7 +44,7 @@ TAYBUL-PRO-CYBER1→0→2→2→8→u→0→_→a→2→2→8
 nur islam
 TAYBUL-PRO-CYBER1→0→5→7→2→u→0→_→a→5→7→2
 madrasa
-TAYBUL-PRO-CYBER1→0→2→4→4→u→0→_→a→2→4→4
+TAYBUL-PRO-CYBER1→0→1→8→4→u→0→_→a→1→8→4
 samiul
 TAYBUL-PRO-CYBER1→0→3→1→5→u→0→_→a→3→1→5
 nur pc 
@@ -56,8 +56,6 @@ sihab
 TAYBUL-PRO-CYBER1→0→3→2→9→u→0→_→a→3→2→9
 ses bikal
 TAYBUL-PRO-CYBER1→0→4→3→0→u→0→_→a→4→3→0
-imzat
-TAYBUL-PRO-CYBER1→0→9→0→3→u→0→_→a→9→0→3
 md jihad
 TAYBUL-PRO-CYBER1→0→3→0→2→u→0→_→a→3→0→2
 nurul
