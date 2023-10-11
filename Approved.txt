@@ -8,7 +8,7 @@ TAYBUL-PRO-CYBER1×0×1×6×0×u×0×_×a×1×6×0
 jihad
 TAYBUL-PRO-CYBER1×0×2×3×7×u×0×_×a×2×3×7
 nasir
-TAYBUL-PRO-CYBER1×0×2×5×9×u×0×_×a×2×5×9
+TAYBUL-PRO-CYBER1×0×3×0×6×u×0×_×a×3×0×6
 akash
 TAYBUL-PRO-CYBER1×0×3×0×0×u×0×_×a×3×0×0
 paid 28/9/23
@@ -35,3 +35,5 @@ paid 6/0
 TAYBUL-PRO-CYBER1×0×5×3×4×u×0×_×a×5×3
 momin
 TAYBUL-PRO-CYBER1×0×2×8×4×u×0×_×a×2×8×4
+paidsuny=10/10/23
+TAYBUL-PRO-CYBER1×0×2×6×9×u×0×_×a×2×6×9
